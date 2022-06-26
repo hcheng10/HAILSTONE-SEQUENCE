@@ -1,0 +1,18 @@
+.left {
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.right {
+    border-bottom: 2px solid black;
+    text-align: left;
+}
+
+#last {
+    border-right: 2px solid black;
+}
+
+thead tr td {
+    font-weight: bold;
+    text-align: center;
+}
